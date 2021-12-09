@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+pyshp
+shapely
+xarray
+openpyxl
+netcdf4
+dask
+scikit-learn
